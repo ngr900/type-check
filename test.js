@@ -8,7 +8,7 @@ const testValues = {
 	array: [[], [1, '', true, undefined]],
 	integer: [0, 1],
 	float: [1.5],
-	string: ['string'],
+	string: ['string', '1'],
 	boolean: [true, false],
 	undefined: [undefined],
 	null: [null],
